@@ -36,7 +36,7 @@ the Vms will have a diffrent operating systems linux and windows.
 
 <h2>ICMP traffic( commands: ping,-t)</h2>
 
-We can use the serch bar to filter to certain traffic such as icmp. Using Microsoft powershell we can use the private ip address of the other Vm and the command ping. Traffic will be sent and receieved between the two clinets. Usinng the same line of code and add the command -t we can have a constant steam of traffic being sent out.
+We can use the serch bar to filter to certain traffic such as icmp. Using Microsoft powershell we can use the private ip address of the other Vm and the command ping. Traffic will be sent and receieved between the two clinets. Using the same line of code and add the command -t we can have a constant steam of traffic being sent out.
 
 <img src="https://i.postimg.cc/zXqXzMVy/2022-11-02-41.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
