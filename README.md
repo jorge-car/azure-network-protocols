@@ -28,8 +28,8 @@
 <p>
   <h2>What we are doing</h2>
   
-To observe diffrent traffic between two diffrent clinets we first need two virtual machines create in microsoft azure that will act as the clinets.
-the Vms will have a diffrent operating systems linux and windows. In the first picture we can observe traffic in wire shark that is constanly being sent and recieved this just daily activty that clients have while being operated.
+To observe diffrent traffic between two diffrent clinets we first need two virtual machines created in microsoft azure that will act as the clinets.
+the Vms will have a diffrent operating systems linux and windows.
 
 <img src="https://i.postimg.cc/Jn9DYQqb/2022-11-02-53.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
