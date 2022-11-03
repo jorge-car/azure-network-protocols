@@ -62,7 +62,7 @@ DNS traffic happens in the backend of the client all the time so we can see that
 
 <img src="https://i.postimg.cc/YSzXR9B3/2022-11-02-52.png" height="80%" width="50%" alt="Disk Sanitization Steps"/>
 
-using wire shark we can observe the diffrent kinds of traffic  such as SSH, DHCP,DNS, and RPD. going into wire shark we can see that we can filter the traffic using the serch bar 
-</p>
+
+This project showed diffrent kinds of traffic and how we were able to observe them by using our tools :)
 
 <br />
