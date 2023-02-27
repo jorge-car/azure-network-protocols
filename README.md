@@ -28,15 +28,16 @@
 <p>
   <h2>What we are doing</h2>
   
-To observe diffrent traffic between two diffrent clients we first need two virtual machines created in microsoft azure that will act as the clients.
-the Virtual machines will have a diffrent operating systems linux and windows.
+To observe diffrent traffic between two diffrent clients we first need two virtual machines created in microsoft azure that will act as the clients. One will include wire shark that shows us a live feed of network traffic depending on what we are looking for.
+the Virtual machines will include the same operating systems window 10.
 
 <img src="https://i.postimg.cc/Jn9DYQqb/2022-11-02-53.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 
 <h2>ICMP traffic( commands: ping,-t)</h2>
-
-We can use the serch bar to filter to certain traffic such as icmp. Using Microsoft powershell we can use the private ip address of the other Vm and the command ping. Traffic will be sent and receieved between the two clinets. Using the same line of code and add the command -t we can have a constant steam of traffic being sent out.
+First booting up wire shark we can see a empty serch bar in the upper right corner.
+We can use the serch bar to filter to certain traffic such as icmp. Switching to the the other Virtual machine.
+Using the Microsoft powershell we can use the private ip address of the other Vm and the command ping. Traffic will be sent and receieved between the two clinets. Using the same line of code and add the command -t we can have a constant steam of traffic being sent out.
 
 <img src="https://i.postimg.cc/zXqXzMVy/2022-11-02-41.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
